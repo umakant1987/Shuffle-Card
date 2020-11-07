@@ -10,8 +10,8 @@ Following functions are used to accomplish this task
 - gridMarkup => Used to generate the mark up 
 - generateGrid => Generate the mark up
 - arrangeCard => After sort and shuffle operation arrange the grid in that manner
--shuffleCards => used to generate random number and place in grid
--sortCards => used to sort the grid.
+- shuffleCards => used to generate random number and place in grid
+- sortCards => used to sort the grid.
 
 # Class based Approach
 
