@@ -3,7 +3,7 @@ The page consists of 9 numbered cards which can be manipulated by using the  shu
 
 Have used in two approach. Class based and normal approach. 
 
-#Functions used
+# Functions used
 
 Following functions are used to accomplish this task
 
@@ -13,10 +13,10 @@ Following functions are used to accomplish this task
 -shuffleCards => used to generate random number and place in grid
 -sortCards => used to sort the grid.
 
-#Class based Approach
+# Class based Approach
 
 have written in class.js where i declared all functions under constructor.
 
-#Normal Approach
+# Normal Approach
 
 have written in index.js file. 
